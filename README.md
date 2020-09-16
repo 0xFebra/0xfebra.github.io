@@ -1,3 +1,1 @@
-# 0xfebra
-
 ##  Hello World
